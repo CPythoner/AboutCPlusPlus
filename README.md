@@ -1,2 +1,2 @@
 # AboutCPlusPlus
-Somethis about C++.
+Something about C++.
